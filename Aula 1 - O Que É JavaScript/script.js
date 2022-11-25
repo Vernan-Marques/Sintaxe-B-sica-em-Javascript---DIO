@@ -1,0 +1,1 @@
+alert('Curso de Sintaxe básica do JavaScript')
